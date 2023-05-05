@@ -8,15 +8,10 @@ type Props = {};
 const AboutPage = (props: Props) => {
   return (
     <div>
-      <h1>About San Steelo</h1>
+      <h1>About Steelo</h1>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-        mollit anim id est laborum.
+        A forward thinking Computer Engineer and web developer with progressive
+        experience and a knack for innovation.
       </p>
     </div>
   );
